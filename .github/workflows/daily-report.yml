@@ -1,0 +1,41 @@
+name: Daily AI Intelligence Report
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "10 0 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  report:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests
+
+      - name: Generate report
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: |
+          python -m scripts.run_daily \
+            --source x-api \
+            --report reports/daily.md \
+            --snapshot data/latest_posts.json \
+            --history data/history.json
+
+      - name: Commit report updates
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update daily AI intelligence report"
+          file_pattern: reports/daily.md data/latest_posts.json data/history.json
+
