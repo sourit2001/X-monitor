@@ -489,6 +489,76 @@
           "media": "image"
         }
       ]
+    },
+    {
+      "captured_at": "2026-07-07T04:12:26.879164+00:00",
+      "source": "sample",
+      "posts": [
+        {
+          "id": "1001",
+          "url": "https://x.com/example/status/1001",
+          "author_handle": "aifounder",
+          "author_name": "AI Founder",
+          "created_at": "2026-06-30T04:30:00+00:00",
+          "text": "Nobody is talking about the real AI app layer. The next wave will not look like chatbots. It will look like invisible workflows.",
+          "likes": 920,
+          "reposts": 210,
+          "replies": 88,
+          "quotes": 57,
+          "views": 42000,
+          "author_followers": 18400,
+          "author_followers_prev": 17650,
+          "media": "text"
+        },
+        {
+          "id": "1002",
+          "url": "https://x.com/example/status/1002",
+          "author_handle": "builderdaily",
+          "author_name": "Builder Daily",
+          "created_at": "2026-06-30T01:10:00+00:00",
+          "text": "How to turn one customer call into 12 content ideas:\n1. Extract the pain\n2. Name the old behavior\n3. Show the new workflow\n4. Add proof\n5. Ask a sharper question",
+          "likes": 410,
+          "reposts": 122,
+          "replies": 31,
+          "quotes": 18,
+          "views": 10600,
+          "author_followers": 5200,
+          "author_followers_prev": 4930,
+          "media": "thread"
+        },
+        {
+          "id": "1003",
+          "url": "https://x.com/example/status/1003",
+          "author_handle": "modelwatch",
+          "author_name": "Model Watch",
+          "created_at": "2026-06-29T22:00:00+00:00",
+          "text": "Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.",
+          "likes": 2200,
+          "reposts": 670,
+          "replies": 190,
+          "quotes": 140,
+          "views": 180000,
+          "author_followers": 95500,
+          "author_followers_prev": 94100,
+          "media": "quote"
+        },
+        {
+          "id": "1004",
+          "url": "https://x.com/example/status/1004",
+          "author_handle": "microagent",
+          "author_name": "Micro Agent",
+          "created_at": "2026-06-30T06:15:00+00:00",
+          "text": "I replaced my weekly research workflow with 4 tiny agents. Here is the template.",
+          "likes": 260,
+          "reposts": 91,
+          "replies": 22,
+          "quotes": 15,
+          "views": 5100,
+          "author_followers": 2100,
+          "author_followers_prev": 1880,
+          "media": "image"
+        }
+      ]
     }
   ]
 }
