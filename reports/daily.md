@@ -1,20 +1,20 @@
 # AI Intelligence Daily
 
-Generated: 2026-08-08 02:13 UTC
+Generated: 2026-08-09 02:23 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
 
-### 82.0 - @modelwatch
+### 81.8 - @modelwatch
 
 Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.
 
 - Link: https://x.com/example/status/1003
-- Engagement: 4175.0; velocity/hour: 4.4; view rate: 2.32%
+- Engagement: 4175.0; velocity/hour: 4.3; view rate: 2.32%
 - Hooks: news
 - Traits: short-form, media:quote, small-account-outperforming
 
-### 80.6 - @builderdaily
+### 80.5 - @builderdaily
 
 How to turn one customer call into 12 content ideas: 1. Extract the pain 2. Name the old behavior 3. Show the new workflow 4. Add proof 5. Ask a sharper question
 
@@ -23,16 +23,7 @@ How to turn one customer call into 12 content ideas: 1. Extract the pain 2. Name
 - Hooks: tutorial
 - Traits: short-form, thread-like, media:thread, high-view-conversion, small-account-outperforming
 
-### 79.2 - @aifounder
-
-Nobody is talking about the real AI app layer. The next wave will not look like chatbots. It will look like invisible workflows.
-
-- Link: https://x.com/example/status/1001
-- Engagement: 1614.5; velocity/hour: 1.7; view rate: 3.84%
-- Hooks: prediction, contrarian
-- Traits: short-form, small-account-outperforming
-
-### 79.2 - @microagent
+### 79.1 - @microagent
 
 I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 
@@ -40,6 +31,15 @@ I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 - Engagement: 512.5; velocity/hour: 0.5; view rate: 10.05%
 - Hooks: tutorial, resource
 - Traits: short-form, media:image, high-view-conversion, small-account-outperforming
+
+### 79.0 - @aifounder
+
+Nobody is talking about the real AI app layer. The next wave will not look like chatbots. It will look like invisible workflows.
+
+- Link: https://x.com/example/status/1001
+- Engagement: 1614.5; velocity/hour: 1.7; view rate: 3.84%
+- Hooks: prediction, contrarian
+- Traits: short-form, small-account-outperforming
 
 ## Fast-Growing Authors
 
@@ -73,6 +73,6 @@ I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 
 ## Editorial Takeaways
 
-- Strongest hooks today: tutorial, news, prediction.
+- Strongest hooks today: tutorial, news, resource.
 - Repeated traits: short-form, small-account-outperforming, high-view-conversion, media:quote, thread-like.
 - Good candidates for deeper review are posts with early-velocity plus high-view-conversion.
