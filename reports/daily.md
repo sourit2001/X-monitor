@@ -1,29 +1,29 @@
 # AI Intelligence Daily
 
-Generated: 2026-08-10 02:27 UTC
+Generated: 2026-08-11 02:21 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
 
-### 81.6 - @modelwatch
+### 81.4 - @modelwatch
 
 Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.
 
 - Link: https://x.com/example/status/1003
-- Engagement: 4175.0; velocity/hour: 4.2; view rate: 2.32%
+- Engagement: 4175.0; velocity/hour: 4.1; view rate: 2.32%
 - Hooks: news
 - Traits: short-form, media:quote, small-account-outperforming
 
-### 80.4 - @builderdaily
+### 80.3 - @builderdaily
 
 How to turn one customer call into 12 content ideas: 1. Extract the pain 2. Name the old behavior 3. Show the new workflow 4. Add proof 5. Ask a sharper question
 
 - Link: https://x.com/example/status/1002
-- Engagement: 745.5; velocity/hour: 0.8; view rate: 7.03%
+- Engagement: 745.5; velocity/hour: 0.7; view rate: 7.03%
 - Hooks: tutorial
 - Traits: short-form, thread-like, media:thread, high-view-conversion, small-account-outperforming
 
-### 79.0 - @microagent
+### 78.9 - @microagent
 
 I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 
@@ -32,7 +32,7 @@ I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 - Hooks: tutorial, resource
 - Traits: short-form, media:image, high-view-conversion, small-account-outperforming
 
-### 78.9 - @aifounder
+### 78.8 - @aifounder
 
 Nobody is talking about the real AI app layer. The next wave will not look like chatbots. It will look like invisible workflows.
 
