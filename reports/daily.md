@@ -1,29 +1,29 @@
 # AI Intelligence Daily
 
-Generated: 2026-08-25 01:46 UTC
+Generated: 2026-08-26 01:52 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
-
-### 79.3 - @modelwatch
-
-Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.
-
-- Link: https://x.com/example/status/1003
-- Engagement: 4175.0; velocity/hour: 3.1; view rate: 2.32%
-- Hooks: news
-- Traits: short-form, media:quote, small-account-outperforming
 
 ### 79.2 - @builderdaily
 
 How to turn one customer call into 12 content ideas: 1. Extract the pain 2. Name the old behavior 3. Show the new workflow 4. Add proof 5. Ask a sharper question
 
 - Link: https://x.com/example/status/1002
-- Engagement: 745.5; velocity/hour: 0.6; view rate: 7.03%
+- Engagement: 745.5; velocity/hour: 0.5; view rate: 7.03%
 - Hooks: tutorial
 - Traits: short-form, thread-like, media:thread, high-view-conversion, small-account-outperforming
 
-### 78.1 - @microagent
+### 79.1 - @modelwatch
+
+Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.
+
+- Link: https://x.com/example/status/1003
+- Engagement: 4175.0; velocity/hour: 3.0; view rate: 2.32%
+- Hooks: news
+- Traits: short-form, media:quote, small-account-outperforming
+
+### 78.0 - @microagent
 
 I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 
@@ -32,7 +32,7 @@ I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 - Hooks: tutorial, resource
 - Traits: short-form, media:image, high-view-conversion, small-account-outperforming
 
-### 77.2 - @aifounder
+### 77.1 - @aifounder
 
 Nobody is talking about the real AI app layer. The next wave will not look like chatbots. It will look like invisible workflows.
 
@@ -74,5 +74,5 @@ Nobody is talking about the real AI app layer. The next wave will not look like 
 ## Editorial Takeaways
 
 - Strongest hooks today: tutorial, news, resource.
-- Repeated traits: short-form, small-account-outperforming, high-view-conversion, media:quote, thread-like.
+- Repeated traits: short-form, small-account-outperforming, high-view-conversion, thread-like, media:thread.
 - Good candidates for deeper review are posts with early-velocity plus high-view-conversion.
