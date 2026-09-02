@@ -1,6 +1,6 @@
 # AI Intelligence Daily
 
-Generated: 2026-09-01 04:56 UTC
+Generated: 2026-09-02 04:19 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
@@ -14,7 +14,7 @@ How to turn one customer call into 12 content ideas: 1. Extract the pain 2. Name
 - Hooks: tutorial
 - Traits: short-form, thread-like, media:thread, high-view-conversion, small-account-outperforming
 
-### 78.4 - @modelwatch
+### 78.3 - @modelwatch
 
 Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.
 
