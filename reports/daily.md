@@ -1,6 +1,6 @@
 # AI Intelligence Daily
 
-Generated: 2026-09-10 04:29 UTC
+Generated: 2026-09-11 04:28 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
@@ -14,15 +14,6 @@ How to turn one customer call into 12 content ideas: 1. Extract the pain 2. Name
 - Hooks: tutorial
 - Traits: short-form, thread-like, media:thread, high-view-conversion, small-account-outperforming
 
-### 77.5 - @modelwatch
-
-Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.
-
-- Link: https://x.com/example/status/1003
-- Engagement: 4175.0; velocity/hour: 2.4; view rate: 2.32%
-- Hooks: news
-- Traits: short-form, media:quote, small-account-outperforming
-
 ### 77.5 - @microagent
 
 I replaced my weekly research workflow with 4 tiny agents. Here is the template.
@@ -31,6 +22,15 @@ I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 - Engagement: 512.5; velocity/hour: 0.3; view rate: 10.05%
 - Hooks: tutorial, resource
 - Traits: short-form, media:image, high-view-conversion, small-account-outperforming
+
+### 77.4 - @modelwatch
+
+Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.
+
+- Link: https://x.com/example/status/1003
+- Engagement: 4175.0; velocity/hour: 2.4; view rate: 2.32%
+- Hooks: news
+- Traits: short-form, media:quote, small-account-outperforming
 
 ### 75.9 - @aifounder
 
@@ -73,6 +73,6 @@ Nobody is talking about the real AI app layer. The next wave will not look like 
 
 ## Editorial Takeaways
 
-- Strongest hooks today: tutorial, news, resource.
+- Strongest hooks today: tutorial, resource, news.
 - Repeated traits: short-form, small-account-outperforming, high-view-conversion, thread-like, media:thread.
 - Good candidates for deeper review are posts with early-velocity plus high-view-conversion.
