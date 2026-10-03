@@ -1,6 +1,6 @@
 # AI Intelligence Daily
 
-Generated: 2026-10-02 05:25 UTC
+Generated: 2026-10-03 05:08 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
@@ -14,7 +14,7 @@ How to turn one customer call into 12 content ideas: 1. Extract the pain 2. Name
 - Hooks: tutorial
 - Traits: short-form, thread-like, media:thread, high-view-conversion, small-account-outperforming
 
-### 77.0 - @microagent
+### 76.9 - @microagent
 
 I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 
@@ -23,7 +23,7 @@ I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 - Hooks: tutorial, resource
 - Traits: short-form, media:image, high-view-conversion, small-account-outperforming
 
-### 75.8 - @modelwatch
+### 75.7 - @modelwatch
 
 Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.
 
@@ -32,7 +32,7 @@ Breaking: a new open model just crossed the practical threshold for local agent 
 - Hooks: news
 - Traits: short-form, media:quote, small-account-outperforming
 
-### 74.8 - @aifounder
+### 74.7 - @aifounder
 
 Nobody is talking about the real AI app layer. The next wave will not look like chatbots. It will look like invisible workflows.
 
