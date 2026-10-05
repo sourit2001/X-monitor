@@ -1,6 +1,6 @@
 # AI Intelligence Daily
 
-Generated: 2026-10-04 05:41 UTC
+Generated: 2026-10-05 05:25 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
@@ -23,7 +23,7 @@ I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 - Hooks: tutorial, resource
 - Traits: short-form, media:image, high-view-conversion, small-account-outperforming
 
-### 75.7 - @modelwatch
+### 75.6 - @modelwatch
 
 Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.
 
@@ -32,7 +32,7 @@ Breaking: a new open model just crossed the practical threshold for local agent 
 - Hooks: news
 - Traits: short-form, media:quote, small-account-outperforming
 
-### 74.7 - @aifounder
+### 74.6 - @aifounder
 
 Nobody is talking about the real AI app layer. The next wave will not look like chatbots. It will look like invisible workflows.
 
