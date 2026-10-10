@@ -1,11 +1,11 @@
 # AI Intelligence Daily
 
-Generated: 2026-10-09 05:58 UTC
+Generated: 2026-10-10 05:40 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
 
-### 77.6 - @builderdaily
+### 77.5 - @builderdaily
 
 How to turn one customer call into 12 content ideas: 1. Extract the pain 2. Name the old behavior 3. Show the new workflow 4. Add proof 5. Ask a sharper question
 
@@ -32,7 +32,7 @@ Breaking: a new open model just crossed the practical threshold for local agent 
 - Hooks: news
 - Traits: short-form, media:quote, small-account-outperforming
 
-### 74.5 - @aifounder
+### 74.4 - @aifounder
 
 Nobody is talking about the real AI app layer. The next wave will not look like chatbots. It will look like invisible workflows.
 
