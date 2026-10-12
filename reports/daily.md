@@ -1,6 +1,6 @@
 # AI Intelligence Daily
 
-Generated: 2026-10-11 05:35 UTC
+Generated: 2026-10-12 05:45 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
@@ -37,7 +37,7 @@ Breaking: a new open model just crossed the practical threshold for local agent 
 Nobody is talking about the real AI app layer. The next wave will not look like chatbots. It will look like invisible workflows.
 
 - Link: https://x.com/example/status/1001
-- Engagement: 1614.5; velocity/hour: 0.7; view rate: 3.84%
+- Engagement: 1614.5; velocity/hour: 0.6; view rate: 3.84%
 - Hooks: prediction, contrarian
 - Traits: short-form, small-account-outperforming
 
