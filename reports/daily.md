@@ -1,11 +1,11 @@
 # AI Intelligence Daily
 
-Generated: 2026-10-24 04:25 UTC
+Generated: 2026-10-25 04:29 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
 
-### 77.3 - @builderdaily
+### 77.2 - @builderdaily
 
 How to turn one customer call into 12 content ideas: 1. Extract the pain 2. Name the old behavior 3. Show the new workflow 4. Add proof 5. Ask a sharper question
 
