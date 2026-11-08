@@ -1,6 +1,6 @@
 # AI Intelligence Daily
 
-Generated: 2026-11-07 05:48 UTC
+Generated: 2026-11-08 05:51 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
@@ -14,7 +14,7 @@ How to turn one customer call into 12 content ideas: 1. Extract the pain 2. Name
 - Hooks: tutorial
 - Traits: short-form, thread-like, media:thread, high-view-conversion, small-account-outperforming
 
-### 76.5 - @microagent
+### 76.4 - @microagent
 
 I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 
