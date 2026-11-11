@@ -1,6 +1,6 @@
 # AI Intelligence Daily
 
-Generated: 2026-11-10 07:05 UTC
+Generated: 2026-11-11 05:57 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
@@ -23,7 +23,7 @@ I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 - Hooks: tutorial, resource
 - Traits: short-form, media:image, high-view-conversion, small-account-outperforming
 
-### 73.8 - @modelwatch
+### 73.7 - @modelwatch
 
 Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.
 
