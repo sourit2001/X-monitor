@@ -1,6 +1,6 @@
 # AI Intelligence Daily
 
-Generated: 2026-11-19 07:11 UTC
+Generated: 2026-11-20 06:59 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
@@ -19,7 +19,7 @@ How to turn one customer call into 12 content ideas: 1. Extract the pain 2. Name
 I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 
 - Link: https://x.com/example/status/1004
-- Engagement: 512.5; velocity/hour: 0.2; view rate: 10.05%
+- Engagement: 512.5; velocity/hour: 0.1; view rate: 10.05%
 - Hooks: tutorial, resource
 - Traits: short-form, media:image, high-view-conversion, small-account-outperforming
 
