@@ -1,6 +1,6 @@
 # AI Intelligence Daily
 
-Generated: 2026-11-23 07:21 UTC
+Generated: 2026-11-24 09:42 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
@@ -23,15 +23,6 @@ I replaced my weekly research workflow with 4 tiny agents. Here is the template.
 - Hooks: tutorial, resource
 - Traits: short-form, media:image, high-view-conversion, small-account-outperforming
 
-### 73.3 - @modelwatch
-
-Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.
-
-- Link: https://x.com/example/status/1003
-- Engagement: 4175.0; velocity/hour: 1.2; view rate: 2.32%
-- Hooks: news
-- Traits: short-form, media:quote, small-account-outperforming
-
 ### 73.2 - @aifounder
 
 Nobody is talking about the real AI app layer. The next wave will not look like chatbots. It will look like invisible workflows.
@@ -40,6 +31,15 @@ Nobody is talking about the real AI app layer. The next wave will not look like 
 - Engagement: 1614.5; velocity/hour: 0.5; view rate: 3.84%
 - Hooks: prediction, contrarian
 - Traits: short-form, small-account-outperforming
+
+### 73.2 - @modelwatch
+
+Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.
+
+- Link: https://x.com/example/status/1003
+- Engagement: 4175.0; velocity/hour: 1.2; view rate: 2.32%
+- Hooks: news
+- Traits: short-form, media:quote, small-account-outperforming
 
 ## Fast-Growing Authors
 
@@ -73,6 +73,6 @@ Nobody is talking about the real AI app layer. The next wave will not look like 
 
 ## Editorial Takeaways
 
-- Strongest hooks today: tutorial, resource, news.
+- Strongest hooks today: tutorial, resource, prediction.
 - Repeated traits: short-form, small-account-outperforming, high-view-conversion, thread-like, media:thread.
 - Good candidates for deeper review are posts with early-velocity plus high-view-conversion.
