@@ -1,6 +1,6 @@
 # AI Intelligence Daily
 
-Generated: 2026-11-27 08:09 UTC
+Generated: 2026-11-28 07:34 UTC
 Posts analyzed: 4
 
 ## Potential Breakouts
@@ -37,7 +37,7 @@ Nobody is talking about the real AI app layer. The next wave will not look like 
 Breaking: a new open model just crossed the practical threshold for local agent workflows. Benchmarks are not the story. Latency is.
 
 - Link: https://x.com/example/status/1003
-- Engagement: 4175.0; velocity/hour: 1.2; view rate: 2.32%
+- Engagement: 4175.0; velocity/hour: 1.1; view rate: 2.32%
 - Hooks: news
 - Traits: short-form, media:quote, small-account-outperforming
 
